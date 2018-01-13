@@ -5,11 +5,7 @@ module.exports = function (shipit) {
         }
     });
 
-    shipit.task("pwd", function () {
-        return shipit.remote("pwd");
-    });
-
     shipit.task("deploy", function () {
-        return shipit.remote("pwd");
+        return shipit.remote("cd evergrande && git pull");
     });
 }
