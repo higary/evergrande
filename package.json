@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/higary/evergrande/issues"
   },
-  "homepage": "https://github.com/higary/evergrande#readme"
+  "homepage": "https://github.com/higary/evergrande#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "google-home-notifier": "^1.2.0"
+  }
 }
