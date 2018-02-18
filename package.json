@@ -19,6 +19,7 @@
   "homepage": "https://github.com/higary/evergrande#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "google-home-notifier": "^1.2.0"
+    "google-home-notifier": "^1.2.0",
+    "request": "^2.83.0"
   }
 }
