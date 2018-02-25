@@ -1,0 +1,7 @@
+{
+    "consumerKey": "xcnKknoUkpBpOghbD7GKeI0E2",
+    "consumerSecret": "PX8HJPx7qsHhqiyf3xZunVQnx1cLsTJ8Kg48x17dHkOkWGUZ3q",
+    "accessToken": "3032725065-S5NF84VNRqEws7FwWXDiPbXi17GyKCmrEviv6OH",
+    "accessTokenSecret": "ttl6KRQhpDP37HHvHu0S6oEn78c0P15bNpQdgR0vWa2nR",
+    "callBackUrl": "http://127.0.0.1:4646/callback"
+}

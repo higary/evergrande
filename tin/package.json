@@ -1,0 +1,24 @@
+{
+  "name": "train-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "twitter-node-client": "0.0.6",
+    "user-stream": "0.0.8",
+    "body-parser": "^1.15.2",
+    "castv2-client": "^1.1.2",
+    "express": "^4.14.0",
+    "google-home-notifier": "^1.2.0",
+    "google-tts-api": "https://github.com/darrencruse/google-tts/tarball/british-voice",
+    "mdns": "^2.3.3",
+    "ngrok": "^2.2.4"
+  }
+}
